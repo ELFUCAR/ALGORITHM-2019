@@ -33,6 +33,7 @@ class Program
             return tab;
      }     
      
+     
        public static void PrintOut(int[] arr,  int everyNth)
 
         {
